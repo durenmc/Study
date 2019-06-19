@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3f26021-25a1-40b6-be24-7894366279d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/Day2-IF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/Day2-Yuanzu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/Day2-Zidian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1-Del.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Day1-Del.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1-For.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Day1-For.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1-Qiepian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Day1-Qiepian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1-Range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Day1-Range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1-Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Day1-Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/Day1.py" afterDir="false" />
-    </list>
+    <list default="true" id="d3f26021-25a1-40b6-be24-7894366279d4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +68,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day2/Day2-Zidian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="348">
               <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
             </state>
           </provider>
@@ -316,12 +304,12 @@
       <workItem from="1560752657737" duration="2006000" />
       <workItem from="1560825416183" duration="15296000" />
       <workItem from="1560849432055" duration="550000" />
-      <workItem from="1560910217174" duration="10896000" />
+      <workItem from="1560910217174" duration="11496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37931000" />
+    <option name="totallyTimeSpent" value="38531000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -334,14 +322,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25869894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3371522" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -484,7 +471,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day2/Day2-Zidian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="348">
           <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
         </state>
       </provider>
